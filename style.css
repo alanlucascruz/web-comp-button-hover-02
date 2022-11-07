@@ -14,7 +14,7 @@ body {
 button {
   position: absolute;
   border: none;
-  color: #fff;
+  color: #ffffff;
   width: 9em;
   height: 3em;
   line-height: 2em;
@@ -34,7 +34,6 @@ button:hover {
   0% {
     background-position: 0%;
   }
-
   100% {
     background-position: 400%;
   }
